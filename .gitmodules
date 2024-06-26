@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bayesforecast"]
+	path = bayesforecast
+	url = https://github.com/asael697/bayesforecast
 [submodule "nortsTest"]
 	path = nortsTest
 	url = https://github.com/asael697/nortstest
